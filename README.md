@@ -9,3 +9,6 @@ Works In Progress:
   * aespa
   * BTS
   * Stray Kids
+ 
+ 
+ [Pages deployment](https://lilaclavender.github.io/purplekyss/)
