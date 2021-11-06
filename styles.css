@@ -1,0 +1,27 @@
+/* Place your CSS styles in this file */
+@import url('https://fonts.googleapis.com/css2?family=Dongle:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+body {
+    background-color: #749bdb;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    background-color: #98b5e2; 
+    border-radius: 25px;
+    padding: 10px;
+}
+p {
+    font-size: 25px;
+    font-family: 'Dongle', sans-serif;
+    text-align: center;
+    padding: 10px;
+    background-color: #98b5e2;
+    border-radius: 25px;
+}
+.container {
+    padding: 50px;
+    background-color: #7595c9;
+    border-radius: 50px;
+    display: block;
+}
