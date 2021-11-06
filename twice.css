@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');
+body {
+    background-color: #F765A3;
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+}
+.container {
+    padding: 40px;
+    background-color: #FFA4B6;
+    border-radius: 50px;
+}
+h1, h2, h3, h4, h5, h6 {
+    background-color: #F9D1D1;
+    padding: 10px;
+    border-radius: 25px;
+}
+p {
+    background-color: #F9D1D1;
+    padding: 20px;
+    border-radius: 25px;
+}
+ul {
+    text-align: left;
+    background-color: #F9D1D1;
+    padding: 25px;
+    border-radius: 25px;
+}
